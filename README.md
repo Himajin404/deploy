@@ -1,4 +1,4 @@
-# BeEngineer 第 4 章 Git とデプロイの演習問題用
+# BeEngineer 第 4 章 Git とデプロイの演習問題用 "前田"
 
 演習問題を解く際は、
 
